@@ -1,0 +1,12 @@
+.btn-pink {
+  background-color: #F28C8C;
+  padding: 4px 20px;
+  border-radius: 4px;
+  color: #F8F4E3;
+  font-weight: bold;
+  font-family:"Roboto", sans-serif;
+  position: absolute;
+  top: 25%; 
+  left: 1.2%; 
+  margin: 0; 
+}
